@@ -7,7 +7,9 @@ Glad to see you here. I'm Pat.
 :office: &nbsp; My previous working project connects customers who are likely to be interested in our company products with a proper marketing channel via machine learning based recommendation.
 
 :mortar_board: &nbsp; I took my master degree in applied statistics from NIDA, Thailand.
-It was a great decision in mylife shipping from engineering field to data. Also, I'm a life long learner. I usually takes an online couse to expand my skills.
+It was a great decision in mylife shipping from engineering field to data. Also, I'm a life-long learner.
+ I usually takes an online couse (~ 3 to 4 courses a yearr) to expand my skills. 
+ Please feel free to recommend if you have any courses I shouldn't miss.
 
 :seedling: &nbsp; I’m currently in love with learning `data-engineering`. I think that if we can combine both data science and data engineering together as a one set of skill.
 It will help much in growing up your professional career.
@@ -18,7 +20,7 @@ Here is my latest data engineering project that I learned from udacity nanodegre
 
 <br>
 
-:pencil2: &nbsp; I usually write for a `towards data science`, you can follow me on [Medium](https://padpathairush.medium.com/).
+:pencil2: &nbsp; I usually write for a [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/).
 I try to write once a month (lately, I usualy miss the deadline.)
 
 :bust_in_silhouette: &nbsp; Also I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
