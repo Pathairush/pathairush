@@ -14,9 +14,10 @@ It was a great decision in mylife shipping from engineering field to data. Also,
 :seedling: &nbsp; I’m currently in love with learning `data-engineering`. I think that if we can combine both data science and data engineering together as a one set of skill.
 It will help much in growing up your professional career.
 
-Here is my latest data engineering project that I learned from udacity nanodegree program.
+Here are some data engineering projects that I have learned recently.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=data_engineering)](https://github.com/Pathairush/data_engineering)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=airflow-hive-spark-sqoop)](https://github.com/Pathairush/airflow-hive-spark-sqoop)
 
 <br>
 
