@@ -18,6 +18,7 @@ Here are some data engineering projects that I have learned recently.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=data_engineering)](https://github.com/Pathairush/data_engineering)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=airflow-hive-spark-sqoop)](https://github.com/Pathairush/airflow-hive-spark-sqoop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=rdbms_to_hdfs_data_pipeline)](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline)
 
 <br>
 
