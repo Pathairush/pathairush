@@ -2,7 +2,11 @@
 
 Glad to see you here. I'm Pat.
 
+<<<<<<< HEAD
  ⌨️ &nbsp; I am a writer for [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/). I try to publish the article once a month.
+=======
+ ⌨️ &nbsp; I am a writer for [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/). I try publish the article once a month.
+>>>>>>> 8d328226527ca3d1b1b4c9bfaf31814308380291
 
 🤚 &nbsp; Also I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
 
