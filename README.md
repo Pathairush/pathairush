@@ -2,22 +2,11 @@
 
 Glad to see you here. I'm Pat.
 
-:wrench: &nbsp; I'm a mechanical engineer turned data scientist who loves learning something new every day.
+ ⌨️ &nbsp; I am a writer for [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/). I try publish the article once a month.
 
-:office: &nbsp; My previous working project connects customers who are likely to be interested in our company products with a proper marketing channel via machine learning based recommendation.
+🤚 &nbsp; Also I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
 
-:mortar_board: &nbsp; I took my master degree in applied statistics from NIDA, Thailand.
-It was a great decision in mylife shipping from engineering field to data. Also, I'm a life-long learner.
- I usually takes an online couse (~ 3 to 4 courses a yearr) to expand my skills. 
- Please feel free to recommend if you have any courses I shouldn't miss.
-
- :pencil2: &nbsp; I usually write for a [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/).
-I try to write once a month (lately, I usualy miss the deadline.)
-
-:bust_in_silhouette: &nbsp; Also I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
-
-:seedling: &nbsp; I’m currently in love with learning `data-engineering`. I think that if we can combine both data science and data engineering together as a one set of skill.
-It will help much in growing up your professional career.
+🏃🏻 &nbsp; I'm currently learning `software-development` and `data-engineering`. Also, I'm casually looking for an opportunity to shift my career towards those fields.
 
 Here are some data engineering projects that I have learned recently.
 
