@@ -1,8 +1,8 @@
-## Hello ! &nbsp; :wave:
+## :wave: &nbsp; Hi
 
 Glad to see you here. I'm Pat.
 
-## Reach out to me
+## About me
 
 I am a writer for [Towards Data Science](https://towardsdatascience.com/), please feel free to follow me on [Medium](https://padpathairush.medium.com/) if you are enjoyed with my articles.
 
