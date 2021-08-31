@@ -1,24 +1,38 @@
-### Hello ! &nbsp; :wave:
+## Hello ! &nbsp; :wave:
 
 Glad to see you here. I'm Pat.
 
- ⌨️ &nbsp; I am a writer for [Towards Data Science](https://towardsdatascience.com/), you can follow me on [Medium](https://padpathairush.medium.com/). I try to publish the article once a month.
+## Reach out to me
 
-🤚 &nbsp; Also I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
+I am a writer for [Towards Data Science](https://towardsdatascience.com/), please feel free to follow me on [Medium](https://padpathairush.medium.com/) if you are enjoyed with my articles.
 
-🏃🏻 &nbsp; I'm currently learning `software-development` and `data-engineering`. Also, I'm casually looking for an opportunity to shift my career towards those fields.
+Also, I'm really active on [LinkedIn](https://www.linkedin.com/in/pathairush/). Please feel free to conenct with me If you have anything I can help.
 
-Here are some data engineering projects that I have learned recently.
+## :book: &nbsp; Top 5 Medium Blog posts
+- [Data Quality Check for Your Data analysis — Tutorial with Pandas](https://towardsdatascience.com/data-quality-check-for-your-data-analysis-tutorial-with-pandas-7ee96d7dc4b6)
+- [Improve Your Machine Learning Pipeline With MLflow](https://towardsdatascience.com/improve-your-machine-learning-pipeline-with-mlflow-6bdbb70fde36)
+- [Start-Up — When Artificial Intelligence meets Korean drama](https://medium.com/dataprods/start-up-when-artificial-intelligence-meets-korean-drama-d7836bc0f4d9)
+- [4 Banking Analytics Use Cases and What Data You Need](https://towardsdatascience.com/4-analytics-use-cases-in-banking-and-what-data-you-need-5f654235bbf)
+- [Automate SAP Report Extraction with Pyautogui](https://towardsdatascience.com/automate-sap-report-extraction-with-pyautogui-f115ae19b653)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=data_engineering_nanodegree)](https://github.com/Pathairush/data_engineering_nanodegree)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=airflow_hive_spark_sqoop)](https://github.com/Pathairush/airflow_hive_spark_sqoop)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=rdbms_to_hdfs_data_pipeline)](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline)
-<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pathairush&repo=data_streaming_nanodegree)](https://github.com/Pathairush/data_streaming_nanodegree)
 
-### Skills
+## 🔩 &nbsp; Data Engineering
+
+- [Data Engineering NanoDegree](https://github.com/Pathairush/data_engineering_nanodegree)
+- [Data Streaming NanoDegree](https://github.com/Pathairush/data_streaming_nanodegree)
+- [Moving your data from RDBMS to HDFS](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline)
+- [Airflow with Hive, Spark, and Sqoop](https://github.com/Pathairush/airflow_hive_spark_sqoop)
+- [SAP Report extraction with PyautoGUI](https://github.com/Pathairush/automate_with_pyautogui)
+
+## 🧪 &nbsp; Data Science
+
+- [A gentle introduction to the recommender system](https://github.com/Pathairush/recommender_system)
+- [Practice NLP techniques with bags of popcorn](https://github.com/Pathairush/learn_nlp_with_bags_of_popcorn)
+
+## 💻 &nbsp; Web Development
+- [YelpCamp](https://yelpcamp-ps.herokuapp.com/) - [Source](https://github.com/Pathairush/yelp_camp)
+
+## Skills
 
 ![](https://img.shields.io/badge/code-Python-informational?style=flat-square&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/code-R-informational?style=flat-square&logoColor=white&color=blue)
