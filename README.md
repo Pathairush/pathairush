@@ -9,7 +9,7 @@
 
 ## Blogs posts
 <table>
-  <tr><th>Title</th><th>Published Date</th></tr>
+  <tr><th>Published Date</th><th>Title</th></tr>
 <!-- BLOG-POST-LIST:START --><tr><td><a href='https://towardsdatascience.com/a-complete-guide-to-recommender-system-tutorial-with-sklearn-surprise-keras-recommender-5e52e8ceace1?source=rss-453670a3845f------2'>A Complete Guide To Recommender System — Tutorial with Sklearn, Surprise, Keras, Recommender</a></td><td>Wed Oct 13 2021 4:10 AM</td></tr><tr><td><a href='https://towardsdatascience.com/a-few-notes-on-coding-interview-problems-array-63bb370c0241?source=rss-453670a3845f------2'>A Few Notes on Coding Interview Problems — Array</a></td><td>Sat Jun 26 2021 7:36 PM</td></tr><tr><td><a href='https://towardsdatascience.com/how-to-build-your-data-learning-projects-in-2021-eabf74d72479?source=rss-453670a3845f------2'>How to Build Your Data Learning Projects In 2021</a></td><td>Fri May 28 2021 12:39 PM</td></tr><tr><td><a href='https://towardsdatascience.com/customize-airflow-container-with-hadoop-based-components-127e89763c21?source=rss-453670a3845f------2'>Customize Airflow Container with Hadoop Based Components</a></td><td>Tue May 04 2021 1:32 PM</td></tr><tr><td><a href='https://towardsdatascience.com/automate-sap-report-extraction-with-pyautogui-f115ae19b653?source=rss-453670a3845f------2'>Automate SAP Report Extraction with Pyautogui</a></td><td>Sat Apr 17 2021 5:55 PM</td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 

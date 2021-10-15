@@ -15,4 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@padpathairush"
-          template: "<tr><td><a href='$url'>$title</a></td><td>$date</td></tr>"
+          template: "<tr><td>$date</td><td><a href='$url'>$title</a></td></tr>"
+          date_format: "mmm d, yyyy"
