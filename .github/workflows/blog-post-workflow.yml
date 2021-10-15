@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@padpathairush"
+          template: "<tr><td>[$title]($url)</td><td>$date</td></tr>"
