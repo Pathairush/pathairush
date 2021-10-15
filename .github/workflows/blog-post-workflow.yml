@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@padpathairush"
-          template: "<tr><td>$title</td><td>$date</td><td>[link]($url)</td></tr>"
+          template: "<tr><td><a href='$url'>$title</a></td><td>$date</td></tr>"
