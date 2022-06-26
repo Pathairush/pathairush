@@ -1,7 +1,8 @@
-<h1 align="left">Hi 👋, I'm Pat</h1>
-<h3 align="left">A banking data scientist from Bangkok, Thailand</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="left">Data scientist living in Bangkok, Thailand</h3>
 
-- 🏃🏻 &nbsp; **Machine Learning Enthusiast**
+- 🙋🏻‍♂️ &nbsp; I'm Pat (Pathairush)
+- 🏃🏻 &nbsp; **Analytics Engineering Enthusiast**
 - 📝 &nbsp; **[Medium Writer](https://padpathairush.medium.com/)**
 - 🤝 &nbsp; **[Connect with Me](https://linkedin.com/in/pathairush)**
 
@@ -18,10 +19,16 @@
 
 ## Projects
 
+### 🏄🏻‍♂️ &nbsp; Software Engineering
+
+- [Pytest - Test-Driven Development for Data Analytics Application](https://github.com/Pathairush/test_driven_data_analysis)
+- [JavaScript - YelpCamp](https://yelpcamp-ps.herokuapp.com/) - [Source](https://github.com/Pathairush/yelp_camp)
+- [Streamlit - Lead generation applications](https://github.com/Pathairush/lead_generation_apps)
+
 ### 🔩 &nbsp; Data Engineering
 
-- [Data Engineering NanoDegree](https://github.com/Pathairush/data_engineering_nanodegree)
-- [Data Streaming NanoDegree](https://github.com/Pathairush/data_streaming_nanodegree)
+- [Data Engineering Nano-degree](https://github.com/Pathairush/data_engineering_nanodegree)
+- [Data Streaming Nano-degree](https://github.com/Pathairush/data_streaming_nanodegree)
 - [Moving your data from RDBMS to HDFS](https://github.com/Pathairush/rdbms_to_hdfs_data_pipeline)
 - [Airflow with Hive, Spark, and Sqoop](https://github.com/Pathairush/airflow_hive_spark_sqoop)
 - [SAP Report extraction with PyautoGUI](https://github.com/Pathairush/automate_with_pyautogui)
@@ -30,6 +37,3 @@
 
 - [A gentle introduction to the recommender system](https://github.com/Pathairush/recommender_system)
 - [Practice NLP techniques with bags of popcorn](https://github.com/Pathairush/learn_nlp_with_bags_of_popcorn)
-
-### 💻 &nbsp; Web Development
-- [YelpCamp](https://yelpcamp-ps.herokuapp.com/) - [Source](https://github.com/Pathairush/yelp_camp)
